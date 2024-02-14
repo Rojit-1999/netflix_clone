@@ -18,7 +18,7 @@ function Navbar() {
             <input
               type="button" 
               value="Sign In"
-              className="bg-[#e50914] h-[40px] w-[80px] rounded-[6px] text-white"
+              className="bg-[#e50914] h-[40px] w-[80px] rounded-[6px] hover:bg-[#d7555c] text-white"
             />
           </div>
           <div className="mt-[150px]">
