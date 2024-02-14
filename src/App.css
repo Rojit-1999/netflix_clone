@@ -1,0 +1,10 @@
+.cover{
+    background-image: 
+    linear-gradient(black, hsla(300, 50%, 50%, 0) 50%, black),
+    url(../src/Image/cover.jpg);
+    height: 700px;
+  
+    
+}
+
+/* linear-gradient(black, hsla(300, 50%, 50%, 0) 50%), */
